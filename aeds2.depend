@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1721090095 source:c:\users\aluno.li1-16554698\documents\aeds2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionarios.c"
+
+1721089979 c:\users\aluno.li1-16554698\documents\aeds2\funcionarios.c
+	"funcionarios.h"
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<time.h>
+
+1721087922 c:\users\aluno.li1-16554698\documents\aeds2\funcionarios.h
+	<stdlib.h>
+	<stdio.h>
+
+1721327980 source:c:\users\pc-amaral\music\busca\aeds2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionarios.c"
+
+1721327712 c:\users\pc-amaral\music\busca\aeds2\funcionarios.c
+	"funcionarios.h"
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<time.h>
+
+1721328084 c:\users\pc-amaral\music\busca\aeds2\funcionarios.h
+	<stdlib.h>
+	<stdio.h>
+
